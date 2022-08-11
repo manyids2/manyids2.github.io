@@ -1,0 +1,12 @@
+CLI
+===
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Contents:
+
+  show
+
+
+.. automodule:: andheri.cli.__main__
+    :members:
